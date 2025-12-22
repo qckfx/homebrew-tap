@@ -1,6 +1,6 @@
 cask "qckfx" do
-  version "0.1.3"
-  sha256 "3fdb96d2e0d8998bce820e693e08261fba59ed4dfb442b7480ab42c48d900049"
+  version "0.1.4"
+  sha256 "f413e9feaf440ebeb4f4c6281733519845586f5e385e3690a09e3855d44799d2"
 
   url "https://github.com/qckfx/qckfx/releases/download/v#{version}/qckfx-#{version}.zip"
   name "qckfx"
