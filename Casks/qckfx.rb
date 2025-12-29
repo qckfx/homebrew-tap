@@ -1,8 +1,8 @@
 cask "qckfx" do
-  version "0.1.6"
-  sha256 "b398270c1f7fa250fb070e2e888f4d0412fbaae4599c6c6327378ef8ae98782a"
+  version "0.2.1"
+  sha256 "f7e950dc882761f6ac0c9beb4dd13807c258b237ea4c4d15e3fd16a72e1773a5"
 
-  url "https://github.com/qckfx/qckfx/releases/download/v#{version}/qckfx-#{version}.zip"
+  url "https://github.com/qckfx/qckfx/releases/download/v#{version}/qckfx-#{version}.dmg"
   name "qckfx"
   desc "Screenshot-based iOS testing tool"
   homepage "https://qckfx.com"
